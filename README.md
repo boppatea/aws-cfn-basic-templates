@@ -1,2 +1,2 @@
-# AWS CloudFormation templates
+# AWS CloudFormation basic templates
 - for learning purposes.
